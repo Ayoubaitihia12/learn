@@ -35,7 +35,7 @@
   </head>
   <body>
 
-    <!-- <form action="result.php" method="POST">
+    <form action="result.php" method="POST">
 
         <label for="name">Name:</label>
         <input type="text" placeholder="Name:" name="name" id="name" required>
@@ -47,7 +47,7 @@
         <input type="text" placeholder="Age:" name="age" id="age" required>
         <br>
         <button name="send" type="submit">Send</button>
-    </form> -->
+    </form>
 
   </body>
 </html>
