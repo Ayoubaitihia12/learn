@@ -46,6 +46,8 @@
         <label for="age">Age:</label>
         <input type="text" placeholder="Age:" name="age" id="age" required>
         <br>
+        <label for="job">Job:</label>
+        <input type="text" placeholder="Job:" name="job" id="job" required>
         <button name="send" type="submit">Send</button>
     </form>
 
